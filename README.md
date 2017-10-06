@@ -1,0 +1,2 @@
+# KolodnyExercise
+Solution for Kolodny

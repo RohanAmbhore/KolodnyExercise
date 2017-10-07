@@ -2,7 +2,7 @@ Curried function
 -----
 
 
-```
+``` javascript
 function curried(f){
 
     function crux(callback, thiArg){

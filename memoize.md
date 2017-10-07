@@ -1,7 +1,7 @@
 Memoize
 ----
 
-```
+``` javascript
 
 function memoize(callback){
     memoize.cache = {};

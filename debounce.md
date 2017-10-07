@@ -13,7 +13,7 @@ In the case of darkening the background you would use a throttle function becaus
 
 In the case of saving the scroll position on the server, you wouldn't want it to be saved until after the user is done scrolling, so you would use the debounce function.
 
-```
+```javascript
 function debounce(callback, wait){
     var timeStamp = Date.now();
     var timeOut;

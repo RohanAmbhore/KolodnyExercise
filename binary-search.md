@@ -2,7 +2,7 @@
 Binary Search
 -------
 
-```
+``` javascript
 function binarySearch(arr, key){
     low = 0;
     high = arr.length - 1;

@@ -3,7 +3,7 @@ Middleware
 Middleware is the programming pattern of providing hooks with a resume callback.
 Here's the basic usage of the file that you'll be creating:
 
-```
+``` javascript
 class Middleware{
 
     constructor(){

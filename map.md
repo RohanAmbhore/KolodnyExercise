@@ -1,7 +1,7 @@
 Cutom Map
 ---
 
-```
+``` javascript
 Array.prototype.myMap = function(callback,thiArg){
     var buff = [];
     for(var i=0;i<this.length;i++){

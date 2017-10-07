@@ -2,7 +2,7 @@ Invert Binary Tree
 ----
 
 
-```
+``` javascript
 function Tree(value){
     this.left = null;
     this.right = null;
